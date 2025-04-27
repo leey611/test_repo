@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "drink": "matcha latte",
+      "base": "green milk tea",
+      "base_color": "#ebffb8",
+      "quantity": 6,
+      "restriction": "Lactose",
+      "drink_size": "medium",
+      "topping": "",
+      "sugar_level": 25,
+      "ice_level": "regular ice",
+      "shop": ""
+    },
+    {
+      "drink": "Water",
+      "base": "milk tea",
+      "base_color": "#c9f3f5",
+      "quantity": 7,
+      "restriction": "no",
+      "drink_size": "medium",
+      "topping": "boba",
+      "sugar_level": 50,
+      "ice_level": "no ice",
+      "shop": ""
+    },
+    {
+      "drink": "Matcha",
+      "base": "green milk tea",
+      "base_color": "#ebffb8",
+      "quantity": 5,
+      "restriction": "no",
+      "drink_size": "medium",
+      "topping": "boba",
+      "sugar_level": 25,
+      "ice_level": "less ice",
+      "shop": "Boba Guys"
+    },
+    {
+      "drink": "Winter Melon M",
+      "base": "milk tea",
+      "base_color": "#ffd078",
+      "quantity": 8,
+      "restriction": "no",
+      "drink_size": "large",
+      "topping": "boba",
+      "sugar_level": 50,
+      "ice_level": "less ice",
+      "shop": "Fifty Lan"
+    }
+  ]
+}
