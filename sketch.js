@@ -24,7 +24,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(255); // set a background
   let filterData
   let selectedSize = sizeSelect.selected()
   let selectedTopping = toppingSelect.selected()
